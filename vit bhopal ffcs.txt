@@ -1,0 +1,176 @@
+ for etc
+
+| Rank     | Faculty                 | My recommendation |
+| -------- | ----------------------- | ----------------- |
+| 🥇 **1** | **Soumya Sankar Ghosh** | ⭐⭐⭐⭐⭐             |
+| 🥈 **2** | **Tauseef Qamar**       | ⭐⭐⭐⭐⭐             |
+| 🥉 **3** | **Juhi Yasmeen**        | ⭐⭐⭐⭐½             |
+| **4**    | **Debraj Gogoi**        | ⭐⭐⭐⭐½             |
+| **5**    | **Samikhya Dash**       | ⭐⭐⭐⭐              |
+| **6**    | **Chandrama Swain**     | ⭐⭐⭐⭐              |
+| **7**    | **M. Priyakumaran**     | ⭐⭐⭐½              |
+| **8**    | **Abdur Rahman M S**    | ⭐⭐⭐½              |
+| **9**    | **Disha Kundu**         | ⭐⭐⭐½              |
+| **10**   | **Gargi Roy**           | ⭐⭐⭐½              |
+| **11**   | **Dev Brat Gupta**      | ⭐⭐⭐               |
+| **12**   | **Anita Yadav**         | ⭐⭐⭐               |
+| **13**   | **Vinod Bhatt**         | ⭐⭐⭐               |
+| **14**   | **Rajeev Saxena**       | ⭐⭐½               | 
+
+for environmental sustainbality 
+| Rank     | Faculty                    | Recommendation |
+| -------- | -------------------------- | -------------- |
+| 🥇 **1** | **Arindam Ghosh**          | ⭐⭐⭐⭐⭐          |
+| 🥈 **2** | **Himanshi Harish Sharma** | ⭐⭐⭐⭐⭐          |
+| 🥉 **3** | **Saurabh Mishra**         | ⭐⭐⭐⭐½          |
+| **4**    | **Abhinav Kumar**          | ⭐⭐⭐⭐½          |
+| **5**    | **Pooja**                  | ⭐⭐⭐⭐           |
+| **6**    | **Rajat Parkash**          | ⭐⭐⭐⭐           |
+| **7**    | **Sugavaneshwar R P**      | ⭐⭐⭐⭐           |
+| **8**    | **Saurabh Bhargava**       | ⭐⭐⭐⭐           |
+| **9**    | **Venkatesan K**           | ⭐⭐⭐½           |
+| **10**   | **Geetanjali Giri**        | ⭐⭐⭐½           |
+
+ for calculus
+| Rank     | Faculty                       | Priority |
+| -------- | ----------------------------- | -------- |
+| 🥇 **1** | **Kumar Abhishek**            | ⭐⭐⭐⭐⭐    |
+| 🥈 **2** | **Manisha Jain**              | ⭐⭐⭐⭐⭐    |
+| 🥉 **3** | **Ankit Pal**                 | ⭐⭐⭐⭐½    |
+| **4**    | **Nilam VenkataKoteswararao** | ⭐⭐⭐⭐½    |
+| **5**    | **Juhi Kesarwani**            | ⭐⭐⭐⭐½    |
+| **6**    | **Dip Mukherjee**             | ⭐⭐⭐⭐     |
+| **7**    | **Suchismita Patra**          | ⭐⭐⭐⭐     |
+| **8**    | **Hemant Kumar Nashine**      | ⭐⭐⭐⭐     |
+| **9**    | **Priyanka Roy**              | ⭐⭐⭐½     |
+| **10**   | **Mayank Sharma**             | ⭐⭐⭐½     |
+
+for python
+| Rank     | Faculty                  | My recommendation                                                 |
+| -------- | ------------------------ | ----------------------------------------------------------------- |
+| 🥇 **1** | **A.V.R. Mayuri**        | ⭐⭐⭐⭐⭐ Best overall choice                                         |
+| 🥈 **2** | **Sasmita Padhy**        | ⭐⭐⭐⭐⭐ Very good choice                                            |
+| 🥉 **3** | **Pradeep Kumar Mishra** | ⭐⭐⭐⭐⭐ Good for CGPA + manageable                                  |
+| **4**    | **Rudra Kalyan Nayak**   | ⭐⭐⭐⭐ Good practical learning                                      |
+| **5**    | **Abha Sharma**          | ⭐⭐⭐⭐ Good option                                                  |
+| **6**    | **Manoj Kumar**          | ⭐⭐⭐⭐ Good alternative                                             |
+| **7**    | **Dheresh/Dhiresh Soni** | ⭐⭐⭐⭐ Good option                                                  |
+| **8**    | **Kannan S**             | ⭐⭐⭐⭐ Good alternative                                             |
+| **9**    | **Rajit Nair**           | ⭐⭐⭐⭐ Good, according to student feedback                          |
+| **10**   | **Abha Trivedi**         | ⭐⭐⭐⭐ Especially attractive if you value easier attendance/grading |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Subject                         | 🏆 My first choice         |
+| ------------------------------- | -------------------------- |
+| 📐 Calculus                     | **Kumar Abhishek**         |
+| 💻 Programming                  | **A.V.R. Mayuri**          |
+| 🗣️ ETC                         | **Samikhya Dash**          |
+| 🌱 Environmental Sustainability | **Himanshi Harish Sharma** |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🏆 My recommended 1st-year faculty ranking
+1. 📐 Calculus — MAT1003
+
+Best choices:
+
+🥇 Kumar Abhishek
+🥈 Manisha Jain
+🥉 Ankit Pal
+Nilam VenkataKoteswararao
+Kiran Kumar Behera
+
+These faculty are listed for MAT1003 in your PDF.
+
+My first choice: Kumar Abhishek.
+
+2. 💻 Introduction to Problem Solving & Programming
+
+Your uploaded Python-related PDF is actually for CSE1021 – Introduction to Problem Solving and Programming.
+
+Best choices:
+
+🥇 A.V.R. Mayuri
+🥈 Sasmitа Padhy
+🥉 Abha Trivedi
+J. Manikandan
+Vikas Panthi
+Preetam Suman
+Siddharth Singh Chouhan
+Adarsh Patel
+E. Nirmala
+T. Venkateswara Rao
+
+A.V.R. Mayuri and the other faculty are listed in your registration PDF.
+
+My first choice: A.V.R. Mayuri.
+
+3. 🗣️ Effective Technical Communication — ENG1004
+
+Best choices:
+
+🥇 Samikhya Dash
+🥈 Dev Brat Gupta
+🥉 Vinod Bhatt
+Chandrama Swain
+Juhi Yasmeen
+Abdur Rahman M S
+M. Priyakumaran
+Tauseef Qamar
+Gargi Roy
+Anita Yadav
+Rajeev Saxena
+Debraj Gogoi
+Disha Kundu
+Soumya Sankar Ghosh
+
+All of these appear in your ENG1004 faculty list.
+
+My first choice: Samikhya Dash.
+
+4. 🌱 Environmental Sustainability — CHY1006
+
+Best choices:
+
+🥇 Himanshi Harish Sharma
+🥈 Saurabh Mishra
+🥉 Vipin Kumar Mishra
+Geetanjali Giri
+Saurabh Bhargava
+Shweta Mukherjee
+Sharad Chandra Tripathi
+P. Vayunandanakishore
+Abhinav Kumar
+Rajat Parkash
+
+The PDF identifies CHY1006 as Environmental Sustainability and lists these faculty/slots.
